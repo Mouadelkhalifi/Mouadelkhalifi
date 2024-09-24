@@ -66,8 +66,6 @@
 
 ![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouadelkhalifi&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=mouadelkhalifi&layout=compact&theme=radical)
-
 </div>
 
 ---
