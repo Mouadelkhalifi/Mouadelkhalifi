@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
 ### Technologies supplémentaires:
@@ -51,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
 ### Langages supplémentaires:
